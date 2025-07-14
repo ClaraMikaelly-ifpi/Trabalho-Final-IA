@@ -1,5 +1,5 @@
 // Define a chave de API para acessar o serviço da Gemini AI
-const CHAVE_API = 'AIzaSyCLC1mekGFAITmd3xh_EdYw5xAQL3kpIoA';
+const CHAVE_API = 'COLOQUE_SUA_CHAVE';
 
 // Monta a URL completa da API incluindo a chave de acesso
 const URL_API = `https://generativelanguage.googleapis.com/v1beta/models/gemini-2.0-flash:generateContent?key=${CHAVE_API}`;
